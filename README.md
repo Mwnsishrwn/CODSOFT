@@ -1,1 +1,1 @@
-# CODSOFT
+# Restaurant Landing Page
